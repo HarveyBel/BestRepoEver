@@ -6,8 +6,8 @@ A game where the objective is to click the left button as a moving LED crosses t
 
 # Inputs:
  Left button is used to control the player's LED
- Right button restarts the game (difficulty and score)
- ON/OFF switch.
+ #Right button restarts the game (difficulty and score)
+ #ON/OFF switch.
 
 # Outputs:
 Target LEDs turn red when the player loses
